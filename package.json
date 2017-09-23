@@ -1,0 +1,16 @@
+{
+  "bugs": {
+    "email": "support@statefront.com",
+    "url": "https://github.com/statefront/statefront-js/issues"
+  },
+  "description": "JavaScript SDK for Statefront - The deployment platform for single-page applications and static websites",
+  "homepage": "https://statefront.com",
+  "keywords": ["statefront"],
+  "license": "MIT",
+  "name": "statefront-js",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/statefront/statefront-js.git"
+  },
+  "version": "0.0.0"
+}
